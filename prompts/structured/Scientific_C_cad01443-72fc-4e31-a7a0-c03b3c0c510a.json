@@ -1,0 +1,9 @@
+{
+  "title": "Scientific Calculator in HTML",
+  "user_prompt": "# Task\nCreate a fully functional scientific calculator as a single HTML page, utilizing JavaScript for calculations, with a focus on accessibility, input validation, and error handling.\n\n# Requirements\n\n## HTML Structure:\n- Design a clean and simple interface with buttons for digits (0-9), operations (+, -, *, /, sin, cos, tan, etc.), and a display area.\n- Include accessibility features for better user experience, such as ARIA attributes for screen readers.\n\n## JavaScript Logic:\n- Implement calculations using the eval() function, while ensuring input validation to prevent the evaluation of illegal expressions.\n- Use event listeners for buttons to capture clicks and handle input.\n\n## Input Handling:\n- Allow users to enter expressions for calculations.\n- Provide buttons for clearing the display and starting a new calculation.\n\n## Error Handling:\n- Display an error message for invalid expressions.\n- Prevent the calculator from crashing on invalid inputs.\n- Example Output: The calculator should be able to handle basic arithmetic operations and trigonometric functions.\n\n## Implementation Guidelines\n- Use a modular approach for JavaScript code organization.\n- Ensure all event listeners are properly removed when components are updated or replaced.\n- Validate user input on each key press to prevent invalid characters.\n- Implement a mechanism to handle and display errors gracefully.",
+  "system_prompt": "You are an expert Web application designer and developer with abundant experience in creating awesome web apps that are highly appealing to users because of their slick UI.",
+  "prompt_type": "Structured Prompt",
+  "created_at": "2024-12-17T20:00:43.102046",
+  "updated_at": "2024-12-29T20:20:28.996023",
+  "id": "cad01443-72fc-4e31-a7a0-c03b3c0c510a"
+}

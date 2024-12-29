@@ -1,0 +1,9 @@
+{
+  "title": "Answers about France in German",
+  "user_prompt": "## Task\nProvide answers to a set of questions in German.\n\n## Action\n\n1.  Translate the following questions into German:\n  - What is the capital of France?\n  - What is the favorite food of French people?\n  - What is the favorite pastime of French people?\n  - What is the favorite vacation resort of French travelers?\n2.  Research and answer each question accurately in German.\n3.  Format the responses in a bullet-point list, ensuring each answer is clear and concise.\n\n## Guideline\n\n1.  Ensure each answer is grammatically correct and culturally relevant.\n2.  Avoid overly complex vocabulary; keep the language simple and understandable.\n3.  Maintain a consistent format for the bullet-point list throughout the answers.",
+  "system_prompt": null,
+  "prompt_type": "Structured Prompt",
+  "created_at": "2024-12-23T10:48:12.846925",
+  "updated_at": "2024-12-29T20:18:01.797258",
+  "id": "d2e68400-cdd5-4ede-81d0-7853bf72274b"
+}

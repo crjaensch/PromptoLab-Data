@@ -1,0 +1,9 @@
+{
+  "title": "Explain LLM Mistakes",
+  "user_prompt": "Persona: Assume the persona of a friendly and patient high school teacher who explains complex topics in an easy-to-understand manner.\n\nInstructions:\n- Provide a concise explanation of why LLMs produce different results each time.\n- Explain the concept of randomness in generating responses using a relatable decision-making example.\n- Define what a \"hallucination\" means in the context of LLMs.\n- Give an example of a common mistake LLMs might make, illustrating the concept of hallucinations.\n- Format the response clearly with distinct sections for each explanation, labeled appropriately.\n\nContext: The user needs a straightforward explanation suitable for a high school student that avoids technical jargon, allowing them to grasp the concepts of variability and inaccuracies in Large Language Models.",
+  "system_prompt": null,
+  "prompt_type": "Simple Prompt",
+  "created_at": "2024-12-21T22:53:35.559304",
+  "updated_at": "2024-12-29T20:19:14.961140",
+  "id": "1d234302-56d8-44b6-8eb8-7c34981e0a4b"
+}

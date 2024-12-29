@@ -1,0 +1,34 @@
+{
+  "name": "TestSet-Dec-29-2024",
+  "cases": [
+    {
+      "input_text": "Tell a joke about a catholic priest, rabby and buddist monk.",
+      "baseline_output": "Sure! Here\u2019s a light-hearted joke that brings them together:\n\nA Catholic priest, a rabbi, and a Buddhist monk walk into a coffee shop. They sit down and start chatting about their faith. \n\nThe priest says, \u201cI have faith that my coffee will be hot and strong.\u201d\n\nThe rabbi nods and says, \u201cAnd I have faith that my coffee will be just as rich and flavorful.\u201d\n\nThe Buddhist monk smiles and says, \u201cI have faith that there is no coffee... just the experience of being one with the universe.\u201d\n\nThe barista walks over and asks, \u201cWhat can I get you?\u201d\n\nThe priest says, \u201cI\u2019ll take a cappuccino.\u201d\n\nThe rabbi says, \u201cI\u2019ll have a latte.\u201d\n\nThe Buddhist monk looks at the barista and says, \u201cI will take... nothing.\u201d\n\nThe barista raises an eyebrow and replies, \u201cNo coffee?\u201d\n\nThe monk nods and says, \u201cJust the awareness of my choice.\u201d \n\nThe priest and the rabbi look at each other and the priest says, \u201cMaybe we should have just ordered some donuts and called it a day!\u201d \n\nThe rabbi adds, \u201cYeah, a donut brings everyone together\u2014assuming it\u2019s not filled with judgment!\u201d  \n\nEveryone laughs, because at the end of the day, we all just want a little sweetness in our lives! \ud83c\udf69",
+      "current_output": null,
+      "test_id": "f94bb193-0930-456a-ba2f-377e1ecc4c89",
+      "created_at": "2024-12-29T19:58:16.765526",
+      "last_run": null
+    },
+    {
+      "input_text": "Tell a joke about the first visit of the future son-in-law at the parent's house.",
+      "baseline_output": "So, the future son-in-law goes to meet his girlfriend's parents for the first time. He's a little nervous, right? \n\nHe walks in, and the dad is cleaning a shotgun. The son-in-law swallows hard and says, \u201cNice to meet you, sir! I promise I\u2019ll treat your daughter like a queen!\u201d\n\nThe dad looks up, put down the shotgun, and says, \u201cGood, because I was just about to show you what happens to toads around here\u2026 they don\u2019t jump so high after a little conversation with me!\u201d \n\nMoral of the story? Always bring flowers\u2026 and a good amount of respect!",
+      "current_output": null,
+      "test_id": "11f97ebb-1d9b-43c6-8dba-5e7027b49cad",
+      "created_at": "2024-12-29T19:58:16.765604",
+      "last_run": null
+    },
+    {
+      "input_text": "Tell a joke about how Gorillas, Chimpanzees and Orang-Utan deal with human visitors to their territory.",
+      "baseline_output": "Sure, here's a light-hearted joke for you:\n\nWhy did the gorilla, chimpanzee, and orangutan form a welcoming committee for human visitors?\n\nBecause they figured if humans can throw peanuts, they might as well throw them back... and take a selfie while doing it! \n\nI mean, they know how to keep their distance! It's not like they want to share their banana stash! \ud83c\udf4c\ud83d\udcf8",
+      "current_output": null,
+      "test_id": "b5b577ce-698e-4190-af45-394f6d91a5a9",
+      "created_at": "2024-12-29T19:58:16.765641",
+      "last_run": null
+    }
+  ],
+  "system_prompt": "You are an excellent commedian with a broad experience on how to present jokes in a way that a wide audience finds highly entertaining. You are also aware how cultural differences influence the perception of jokes on sensitive topics, like religion, gender or family. You are presenting jokes in front of a group of western tourists in NYC.",
+  "baseline_model": null,
+  "baseline_frozen": false,
+  "created_at": "2024-12-29T19:58:16.765667",
+  "last_modified": "2024-12-29T19:58:16.765668"
+}
