@@ -13,11 +13,11 @@ Sample prompts as well as a prompt test set for the PromptoLab application
    git clone https://github.com/crjaensch/PromptoLab-Data
    ```
 
-2. Copy both the `prompts` and `test_sets` directory to the parent directory of PromptoLab
+2. Copy the `prompts` and `test_sets` directory to the subdirectory ".promptolab" of the user's home directory
    ```bash
    cd PromptoLab-Data
-   mv prompts <parent-directory-of-PromptoLab-installation-dir>
-   mv test_sets <parent-directory-of-PromptoLab-installation-dir>
+   mv prompts $HOME/.promptolab/       # for Windows to: C:\Users\username\.promptolab
+   mv test_sets $HOME/.promptolab/     # for Windows to: C:\Users\username\.promptolab
    ```
 ## Running the Application
 
